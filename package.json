@@ -1,8 +1,9 @@
 {
-  "name": "fv_portal",
+  "name": "azure-functions-front-end",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@azure/storage-blob": "^12.8.0",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
